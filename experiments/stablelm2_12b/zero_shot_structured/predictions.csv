@@ -1,0 +1,64 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,"{
+  ""clickbait"": 0
+} 
+
+The given headline, ""Over X dead in Libyan plane crash"" is a straightforward and informative statement about a tragic event. It provides essential information about the incident without using sensational language or exaggeration. Therefore, it does not exhibit characteristics of clickbait, which typically uses attention-grabbing language to attract users without regard for the accuracy or completeness of the information. Hence, the value for ""clickbait"" is 0."
+Three of Serbia's neighbours recognize Kosovo,0,0,"{
+  ""clickbait"": 0
+} 
+
+The given headline does not contain any sensational or exaggerated wording, clickbait elements, or emotionally charged language. It simply provides information about a specific event related to international recognition of Kosovo by three of Serbia's neighbors. Therefore, the value is 0, indicating that the headline is not clickbait."
+"Geithner, Member and Overseer of Finance Club",0,0,"To determine if the given news headline is clickbait, we'll analyze its content and presence of sensational or misleading elements.
+
+Headline: Geithner, Member and Overseer of Finance Club
+
+The headline provides information about Timothy Geithner's role in the Finance Club, which seems to be a clear statement about his position. It doesn't appear to use sensational language or make false claims to attract clicks.
+
+Based on this analysis, the JSON object would be:
+
+JSON: {""clickbait"": 0}"
+This Comic Proves You Have No Excuse Not To Meditate,1,0,"{
+  ""clickbait"": 0
+} 
+
+The given headline does not contain any strong sensational language or exaggerated claims, which are common characteristics of clickbait. It simply states that there's a comic that demonstrates the benefits of meditation. Therefore, it's not considered clickbait."
+42 Dogs Who Found Their Forever Homes In 2015,1,0,"{
+    ""clickbait"": 0
+}"
+Cafe Experience Is Shifting to the Home,0,0,"To analyze the given news headline and determine if it's clickbaity, we can follow these steps:
+
+1. Check if the headline uses attention-grabbing words or phrases.
+2. Determine if the headline exaggerates or makes a bold claim.
+3. Evaluate if the headline provides enough context or information.
+
+In this case, the headline is: ""Cafe Experience Is Shifting to the Home""
+
+The headline uses a slight exaggeration with ""Shifting,"" suggesting a significant change in the cafe experience. However, it also provides a clear context by mentioning that the shift is happening towards the home.
+
+Considering these factors, the clickbait score is 0, meaning the headline is not overly clickbaity.
+
+JSON object:
+{
+  ""clickbait"": 0
+}"
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"{
+  ""clickbait"": 1
+} 
+
+The given headline uses words like ""mouthwatering,"" which often implies a desirable and appealing topic, and ""You Won't Believe,"" which is a common clickbait technique to grab reader's attention and spark curiosity. Although the headline does not explicitly state that it is clickbait, the language used suggests a potential attempt to attract users' clicks. Therefore, the value for ""clickbait"" is set to 1."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"To determine if the given news headline is clickbait, we can analyze its content. The headline presents two contrasting opinions about Denmark's safety, which might create curiosity and potentially attract more clicks. However, it doesn't explicitly use words or phrases typically found in clickbait headlines, such as ""you won't believe,"" ""shocking truth,"" or ""amazing secret.""
+
+Considering this, the clickbait score would be:
+
+JSON: {""clickbait"": 0}"
+Indiana tornado kills at least 19,0,0,"{
+    ""clickbait"": 0
+} 
+
+The given news headline does not contain any sensational or exaggerated language, and it directly provides information about a tornado in Indiana that resulted in fatalities. Therefore, it does not seem to be clickbait. The headline appears to be straightforward and informative, providing essential information about the event. Hence, the value for ""clickbait"" is 0."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"{
+  ""clickbait"": 1
+} 
+
+The given headline uses a popular TV show's reference (""Once Upon A Time"") and poses a hypothetical question, which are common strategies used in clickbait headlines. Although it doesn't explicitly use words like ""you won't believe"" or ""amazing,"" the curiosity it generates about the Enchanted Forest might encourage readers to click. Therefore, the value for ""clickbait"" is set to 1."

@@ -1,0 +1,119 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait or not. Clickbait headlines are designed to attract users' attention with sensationalized or exaggerated content, often using misleading or incomplete information. The goal is to decide whether the given headline fits this description or not.
+
+Step 2: Analyze the headline
+Headline: Over  dead in Libyan plane crash
+
+Step 3: Evaluate the headline for clickbait characteristics
+The headline provides clear and factual information about a plane crash in Libya that resulted in a significant number of casualties. It does not use exaggerated or sensationalized language, nor does it seem to mislead the reader.
+
+Step 4: Provide the answer
+Since the headline does not appear to be clickbait, the answer is 0 (non-clickbait)."
+Three of Serbia's neighbours recognize Kosovo,0,1,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait or not. Clickbait headlines are designed to attract attention and encourage users to click on the link, often using exaggerated or misleading statements. We are asked to respond with either 1 for clickbait or 0 for non-clickbait.
+
+Step 2: Analyze the headline
+The given headline is: ""Three of Serbia's neighbours recognize Kosovo""
+
+Step 3: Evaluate for clickbait characteristics
+The headline provides clear information about the topic, mentioning that three neighbors of Serbia have recognized Kosovo. It doesn't seem to use sensational language or exaggeration to attract clicks.
+
+Step 4: Determine the response
+Since the headline appears to be informative and straightforward without using clickbait tactics, the answer is 0 (non-clickbait)."
+"Geithner, Member and Overseer of Finance Club",0,0,"Step 1: Analyze the headline for its content and context.
+The headline mentions Geithner, who seems to be associated with a group called the ""Finance Club."" The headline provides information about Geithner's role as both a member and an overseer.
+
+Step 2: Evaluate the headline for sensationalism or exaggeration.
+The headline appears to be straightforward and informative, without using sensational language or making exaggerated claims to grab attention.
+
+Step 3: Determine if the headline is likely to mislead readers or create curiosity without providing clear information.
+The headline does not seem to be misleading, as it clearly states Geithner's connection to the Finance Club and his roles within it. It does not use vague or ambiguous terms to create curiosity without providing clear information.
+
+Step 4: Make a final decision based on the analysis.
+Since the headline appears to be informative, straightforward, and not using sensational language or misleading tactics, it can be considered non-clickbait.
+
+Answer: 0"
+This Comic Proves You Have No Excuse Not To Meditate,1,0,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait. Clickbait headlines are designed to attract attention and encourage users to click on a link, often using exaggerated or misleading statements. The goal is to classify the headline as either clickbait (1) or non-clickbait (0).
+
+Step 2: Analyze the headline
+Headline: ""This Comic Proves You Have No Excuse Not To Meditate""
+
+Step 3: Evaluate for clickbait characteristics
+The headline seems to be promoting a comic related to meditation and its benefits. It uses a clear and straightforward statement, suggesting that the comic will provide a strong argument for meditation. The phrase ""You Have No Excuse"" implies that the content might be persuasive and helpful, which could be seen as a way to grab attention.
+
+Step 4: Make a decision
+While the headline might be slightly attention-grabbing, it doesn't seem to be excessively exaggerated or misleading. It provides a clear topic and offers a potential benefit (proving the necessity of meditation). Therefore, the headline appears to be more informative than clickbait-like.
+
+Answer: 0 (non-clickbait)"
+42 Dogs Who Found Their Forever Homes In 2015,1,0,"To determine if the given news headline is clickbait, let's analyze it step-by-step.
+
+Step 1: Identify the headline's topic
+The headline is about dogs who found their forever homes.
+
+Step 2: Evaluate the headline's content and language
+The headline uses a positive and heartwarming tone, mentioning ""forever homes,"" which implies a successful adoption story. The use of numbers (5) in the headline might indicate a specific number of dogs or a listicle format.
+
+Step 3: Assess the headline's intention
+The headline seems to be aiming to inform readers about a heartwarming story of dogs finding their permanent homes. It doesn't appear to use sensational or misleading language to attract clicks.
+
+Step 4: Determine if the headline is clickbait
+Given the analysis, the headline appears to be a genuine story or listicle about dogs finding their forever homes. It doesn't seem to use deceptive tactics to lure readers, so it can be considered non-clickbait.
+
+Answer: 0 (non-clickbait)"
+Cafe Experience Is Shifting to the Home,0,0,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait or not. Clickbait headlines are designed to attract users' attention with sensational, exaggerated, or misleading statements, often with the intention to increase website views. We will classify the given headline as either clickbait (1) or non-clickbait (0).
+
+Step 2: Analyze the headline
+Headline: ""Cafe Experience Is Shifting to the Home""
+
+Step 3: Evaluate for clickbait characteristics
+The headline seems to be informative and relevant, discussing a potential shift in the cafe experience to people's homes. It doesn't appear to use sensational or misleading language to attract clicks.
+
+Step 4: Make a decision
+Since the headline appears to be informative and not using clickbait tactics, we can classify it as non-clickbait.
+
+Answer: 0"
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait. Clickbait headlines are designed to attract attention and encourage clicks, often using exaggerated or misleading statements. The response should be either 1 for clickbait or 0 for non-clickbait.
+
+Step 2: Analyze the headline
+Headline: ""Mouthwatering Foods You Won't Believe Contain Alcohol""
+
+Step 3: Evaluate if the headline is clickbait
+The headline uses words like ""mouthwatering"" and ""won't believe"" to create curiosity and interest. It also implies that there are surprising food items containing alcohol. While it doesn't necessarily mislead, it does use language that could be considered clickbaity to attract readers.
+
+Step 4: Provide the answer
+Considering the language used in the headline, I would classify it as clickbait. 
+
+Answer: 1"
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait or not. Clickbait headlines are designed to attract users' attention with sensational or exaggerated claims, often without providing clear information about the content. The response should be either 1 for clickbait or 0 for non-clickbait.
+
+Step 2: Analyze the headline
+The given headline is: 'Denmark will be attacked' says one expert, 'Denmark safe' says another. This headline presents two contrasting opinions about Denmark's safety from two different experts.
+
+Step 3: Determine if it is clickbait
+The headline does not seem to use sensational or exaggerated claims to attract attention without providing clear information about the content. It presents a balanced view by showing two different opinions on the same topic.
+
+Step 4: Provide the answer
+Since the headline does not appear to be clickbait, the answer is 0 for non-clickbait."
+Indiana tornado kills at least 19,0,0,"To determine if the given news headline is clickbait, we need to analyze its content and purpose. Clickbait headlines are designed to attract readers' attention with sensationalized or exaggerated content, often using misleading or incomplete information. In this case, the headline is:
+
+""Indiana tornado kills at least...""
+
+The headline provides information about a natural disaster (tornado) and its consequences (deaths). It does not include any sensationalized language or misleading information. The headline informs readers about a significant event and its impact, which is the primary purpose of news headlines.
+
+Based on this analysis, the given news headline is not clickbait. So, the answer is 0 (non-clickbait)."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"Step 1: Understand the task
+The task asks to analyze the given news headline and determine if it is clickbait. Clickbait headlines are designed to attract users' attention with sensational, exaggerated, or misleading content. The response should be either 1 for clickbait or 0 for non-clickbait.
+
+Step 2: Analyze the headline
+The headline in question is: ""Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""""
+
+Step 3: Evaluate if it is clickbait
+The headline refers to a fictional location from a TV show, ""Once Upon A Time,"" and asks a hypothetical question about surviving a day in the Enchanted Forest. It doesn't seem to use sensational or misleading language to attract clicks.
+
+Step 4: Provide the answer
+Since the headline appears to be a genuine question related to a fictional world and doesn't seem to use clickbait tactics, the answer is 0 (non-clickbait)."

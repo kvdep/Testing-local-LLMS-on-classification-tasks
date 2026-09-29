@@ -1,0 +1,52 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,"{
+  ""clickbait"": 0
+}
+
+Explanation: The headline provides factual information about a tragic event, which is not typically associated with clickbait. Clickbait headlines often use sensationalism, emotional manipulation, or misleading information to attract readers. This headline, while tragic, does not employ such tactics."
+Three of Serbia's neighbours recognize Kosovo,0,1,"{
+  ""clickbait"": 1
+}
+
+Explanation: The headline is a clickbait because it is designed to attract attention by implying that more countries than just three have recognized Kosovo, but the actual number is not specified in the headline. This creates an element of curiosity and encourages readers to click on the article to find out the exact number of countries that have recognized Kosovo."
+"Geithner, Member and Overseer of Finance Club",0,0,"{
+  ""clickbait"": 0
+}
+
+Explanation: The headline is informative and provides a clear statement about a person's role, which is not typically a characteristic of clickbait headlines. Clickbait headlines often aim to provoke curiosity, emotion, or sensationalism to draw readers in, which this headline does not do."
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"{
+  ""clickbait"": 1
+}
+
+Explanation: The headline uses a strong, assertive tone (""proves""), a questionable claim (""You have no excuse""), and a sensational element (""Comic"") to grab attention, which are common characteristics of clickbait headlines."
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"{
+  ""clickbait"": 1
+}
+
+Explanation: The headline uses a number (42) and an emotional appeal (finding their forever homes) to create a sense of intrigue and curiosity, which are common characteristics of clickbait headlines. However, it does not explicitly promise shocking, sensational, or unexpected information, which is a more definitive characteristic of clickbait. Therefore, it is classified as a clickbait headline, but with a lower degree of intensity compared to some other examples of clickbait."
+Cafe Experience Is Shifting to the Home,0,1,"{
+  ""clickbait"": 1
+}
+
+Explanation: The headline ""Cafe Experience Is Shifting to the Home"" is a clickbait headline because it suggests a significant change or trend (the ""shift"" of the cafe experience to homes) that might grab the reader's attention, but the specifics of this change are not immediately clear from the headline itself. This leaves the reader curious and inclined to click for more information."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"{
+  ""clickbait"": 1
+}
+
+Explanation:
+The headline uses several clickbait tactics such as using numbers (22), superlatives (Mouthwatering, Won't Believe), and a sensational claim (Foods You Won't Believe Contain Alcohol) to grab the reader's attention. This headline is designed to generate clicks by promising surprising and delicious information."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,"{
+  ""clickbait"": 1
+}
+
+Explanation: The headline creates a sense of uncertainty and conflict, which is a common characteristic of clickbait. It implies that there might be a significant event (an attack on Denmark) and presents contradictory opinions to grab the reader's attention. This headline is designed to provoke curiosity and encourage readers to click on the article to find out more."
+Indiana tornado kills at least 19,0,0,"{
+  ""clickbait"": 0
+}
+
+Explanation: The headline provides factual information about a tragic event, which is not typically associated with clickbait. Clickbait headlines often use sensationalized language, ask questions, or make promises to entice readers to click on a link. This headline does not employ such tactics."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"{
+  ""clickbait"": 1
+}
+
+Explanation: The headline is a clear example of clickbait due to its sensational and fantastical nature. It appeals to the reader's curiosity and interest in the popular TV show ""Once Upon a Time,"" and the question format is often used in clickbait headlines to engage readers."

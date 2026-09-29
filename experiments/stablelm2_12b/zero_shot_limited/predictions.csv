@@ -1,0 +1,94 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,"0
+
+Step 1: Understand the question - The user wants a simple response with just a 1 for clickbait headlines and 0 for non-clickbait headlines. They provided a specific headline and asked if it's clickbait.
+
+Step 2: Analyze the given headline - ""Over X dead in Libyan plane crash"". The headline provides information about a plane crash and the number of casualties without revealing the exact number.
+
+Step 3: Determine if it's clickbait - The headline gives essential information about the event and its consequences, without using sensational language or exaggeration to attract clicks. It appears to be a straightforward news report.
+
+Step 4: Provide the answer - Since the headline doesn't seem to be using sensational language or exaggeration to attract clicks, the answer is 0, meaning it's not clickbait."
+Three of Serbia's neighbours recognize Kosovo,0,1,"1
+
+Step 1: Understand the question
+The user wants a simple response in the form of a single character, either 1 for clickbait or 0 for not clickbait, based on the provided headline.
+
+Step 2: Analyze the headline
+The headline states, ""Three of Serbia's neighbours recognize Kosovo."" It provides information about political events and international relations, which is a relevant topic.
+
+Step 3: Determine if the headline is clickbait
+The headline gives clear information about specific countries recognizing Kosovo, which is a factual statement. It doesn't use sensational language or misleading information to attract clicks.
+
+Step 4: Provide the answer
+Since the headline provides factual information without using clickbait tactics, the answer is 0, meaning it is not clickbait."
+"Geithner, Member and Overseer of Finance Club",0,0,"0
+
+Step 1: Understand the task
+The user wants a simple response in the form of a single character, either 1 (meaning clickbait) or 0 (meaning not clickbait), for the given headline.
+
+Step 2: Analyze the headline
+The headline is about Geithner's role in the Finance Club, providing information about his membership and oversight. It doesn't seem to use sensational language or exaggeration to attract clicks.
+
+Step 3: Provide the answer
+Since the headline appears to be informative and not using clickbait tactics, the response is 0, indicating that it is not clickbait."
+This Comic Proves You Have No Excuse Not To Meditate,1,0,"0
+
+Step 1: Understand the question
+The user wants a simple response, either 1 for clickbait or 0 for not clickbait, based on the provided headline.
+
+Step 2: Analyze the headline
+The headline states, ""This Comic Proves You Have No Excuse Not To Meditate."" It presents a clear, straightforward claim about a comic that demonstrates the benefits or necessity of meditation.
+
+Step 3: Determine if the headline is clickbait
+The headline doesn't use sensational language, deceptive phrases, or exaggerations to grab attention. It directly presents a comic as proof for meditation's benefits, which seems to be a straightforward statement.
+
+Step 4: Provide the answer
+Since the headline appears to be clear and not using deceptive tactics, the response is 0, meaning it is not clickbait."
+42 Dogs Who Found Their Forever Homes In 2015,1,1,1
+Cafe Experience Is Shifting to the Home,0,0,"0
+
+Step 1: Understand the question
+The user wants a simple response, either a 1 for clickbait or 0 for not clickbait, based on the provided headline.
+
+Step 2: Analyze the headline
+The headline states, ""Cafe Experience Is Shifting to the Home."" It discusses a trend or change in the way people consume cafe experiences, moving from physical locations to homes.
+
+Step 3: Determine if the headline is clickbait
+The headline provides a clear and informative topic, without using sensational language or misleading information to attract clicks. It focuses on a specific trend and offers information about it.
+
+Step 4: Provide the answer
+Since the headline appears to be informative and not using deceptive tactics to attract clicks, the answer is 0, meaning it is not clickbait."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,0,"0
+
+Step 1: Understand the question
+The user wants a simple response with just a single character, asking if the provided headline is clickbait or not. In this case, clickbait headlines are designed to attract attention and encourage clicks, often by using exaggerated or misleading statements.
+
+Step 2: Analyze the headline
+The headline given is ""Mouthwatering Foods You Won't Believe Contain Alcohol."" While it may grab attention, it doesn't necessarily seem to mislead the reader. The focus is on surprising foods that contain alcohol, which could be considered click-worthy, but it doesn't necessarily imply that the content is deceptive.
+
+Step 3: Provide the answer
+Given that the headline could be considered clickbait due to its focus on surprising information, but doesn't necessarily mislead the reader, the answer is 0, indicating that it might be clickbait to some extent, but not strictly so."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"0
+
+The given headline does not clearly fall into the category of clickbait, as it presents two differing opinions rather than making a sensationalized claim without context. Clickbait headlines are designed to attract readers by using exaggerated, misleading, or sensational language, often without providing substantial information or differing perspectives. In this case, the headline presents two expert opinions on the safety of Denmark, making it more of a news report or debate topic rather than clickbait."
+Indiana tornado kills at least 19,0,0,"0
+
+Step 1: Analyze the given headline.
+Step 2: Understand that the question asks to determine if the headline is clickbait, which typically refers to sensationalized or misleading content to attract more clicks.
+Step 3: The given headline, ""Indiana tornado kills at least,"" provides information about a natural disaster without any specific exaggeration or sensationalism.
+Step 4: Compare the headline to the definition of clickbait.
+Step 5: Since the headline does not seem to be sensationalized or misleading, it can be considered as not clickbait.
+Step 6: Provide the answer as a single character, which in this case is '0' indicating that the headline is not clickbait."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,0,"0
+
+Step 1: Understand the question
+The user wants a simple response, either 1 for clickbait or 0 for not clickbait, based on the provided headline.
+
+Step 2: Analyze the headline
+The headline asks a question, ""Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""?"" It doesn't use sensational language or make false claims, but it does create curiosity about the topic.
+
+Step 3: Determine if it's clickbait
+While the headline might encourage clicks due to its question format, it doesn't seem to be specifically designed to deceive or exploit readers' emotions. It's more of a curiosity-driven question related to a specific TV show's fictional setting.
+
+Step 4: Provide the answer
+Since the headline doesn't appear to be deceptive, the response is 0, meaning it's not clickbait."

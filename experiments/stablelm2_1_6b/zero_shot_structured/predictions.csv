@@ -1,0 +1,201 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Over 400 Libyans dead in Libyan plane crash"" is a clickbait as it generates curiosity and generates a sense of urgency or tragedy. The number ""400"" in the headline is exaggerated for the sake of attention and shock value, which is a common technique used in clickbait headlines. Therefore, the value for ""clickbait"" is set to 1."
+Three of Serbia's neighbours recognize Kosovo,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The news headline ""Three of Serbia's neighbours recognize Kosovo"" is a clickbait as it generates curiosity and interest in the news by emphasizing the unique and surprising fact that three neighboring countries (presumably Serbia's neighbors) have recognized Kosovo as an independent state. This type of headline is often used to grab attention and entice readers to click and read more about the news story."
+"Geithner, Member and Overseer of Finance Club",0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline is about Geithner, who is a former US Treasury Secretary and a member and overseer of the Finance Club. The headline is clickbait because it generates curiosity and interest in the subject matter, which is not inherently exciting or sensational. Therefore, the value for ""clickbait"" is set to 1."
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""This Comic Proves You Have No Excuse Not To Meditate"" is a clickbait as it promises to provide a humorous or attention-grabbing way to convince people to start meditating. The use of the word ""excuse"" in the headline implies that there might be a valid reason for not meditating in the past, and the comic provides a humorous alternative to that. Therefore, the value for ""clickbait"" is set to 1."
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Pour Dogs Who Found Their Forever Homes In 5"" is a clickbait as it is designed to attract attention and generate clicks by using exaggerated or sensational language. The number ""5"" in the headline suggests that the dogs were adopted within a short period of time, which is likely an exaggeration for effect. Therefore, the value of ""clickbait"" is set to 1."
+Cafe Experience Is Shifting to the Home,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Cafe Experience Is Shifting to the Home"" suggests that the cafe experience is moving from physical locations to being experienced at home. This creates a sense of clickbait as it intrigues the reader and generates interest. Therefore, the value for ""clickbait"" is set to 1."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""Pour Mouthwatering Foods You Won't Believe Contain Alcohol"" is a clickbait as it creates a sense of curiosity and intrigue in the reader by suggesting that there are delicious foods containing alcohol that they might not believe at first. This type of headline is designed to grab the reader's attention and encourage them to click on the article to learn more."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""Denmark will be attacked"" and ""Denmark safe"" are both clickbait headlines that generate attention and generate a sense of urgency or fear in the reader. The use of the word ""attack"" in the headline suggests a negative or dangerous situation, while the phrase ""Denmark safe"" suggests a positive outcome. Therefore, the answer is 1 (true) as the headline is clickbait."
+Indiana tornado kills at least 19,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline is ""Indiana tornado kills at least 3 people"" which indicates that the news is about a tornado incident in Indiana that has resulted in at least 3 fatalities. Therefore, the clickbait value for this headline would be 1 as it suggests that the news is likely to attract a large number of clicks due to the severity of the incident."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time"""" is a clickbait as it is designed to grab the reader's attention and entice them to click on the article or story it refers to. The use of fantasy elements and the dramatic wording creates a sense of curiosity and suspense, making it more likely for people to be interested in reading the content. Therefore, the value for ""clickbait"" is set to 1."
+Study finds marijuana use leads to brain development in rats,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given news headline mentions that ""Study finds marijuana use leads to brain development in rats"". This statement is a clickbait as it generates curiosity and interest in the reader by suggesting that marijuana use can lead to brain development in rats. Therefore, the value for ""clickbait"" is set as 1."
+13 Hashtags Too Real For Anyone Who Grew Up Catholic,1,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline does not contain any hashtags that are specifically related to the Catholic religion or its practices. Therefore, the headline can be considered as not being a clickbait."
+China prepared to support eurozone countries hit by financial crisis,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline does not contain any misleading or sensational information that would classify it as clickbait. Therefore, the value for the ""clickbait"" key in the JSON object will be 0."
+U.S. GDP sees worst drop in five decades,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""U. S. GDP sees worst drop in five decades"" indicates that the US Gross Domestic Product (GDP) has experienced its worst decline in the past five decades. This information is likely to grab the attention of readers and is commonly referred to as ""clickbait"" as it is designed to pique the interest of potential readers. Therefore, based on the information provided in the headline, the value for ""clickbait"" would be set to 1."
+23 Things That Happen When Two Girls Live Together,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Pour Things That Happen When Two Girls Live Together"" suggests that the news article discusses the various incidents or events that occur when two girls live together. This headline is designed to grab the reader's attention by using alliteration and the word ""pour"" which implies a list or a series of events. Therefore, based on the analysis, the news headline can be classified as a clickbait as it is designed to create curiosity and interest in the reader. Hence, the value for ""clickbait"" is set as 1."
+"Carter: US ""likely behind"" Venezuela coup",0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Carter: US ""likely behind"" Venezuela coup"" suggests that the US might be involved in a coup in Venezuela. This information is considered clickbait as it generates curiosity and generates interest in the reader. Therefore, the value for ""clickbait"" is set as 1."
+16 Times Bollywood Stars Gave You Intense Vacation Goals,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Pour Times Bollywood Stars Gave You Intense Vacation Goals"" is a clickbait as it is designed to attract attention and generate clicks by using sensational and attention-grabbing language. The headline mentions Bollywood stars and the phrase ""intense vacation goals,"" which implies that the content is exciting and desirable for readers. Therefore, the value for ""clickbait"" is 1."
+Top two aides quit US presidential candidate McCain's campaign,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given news headline states that ""Top two aides quit US presidential candidate McCain's campaign"". This headline is not a clickbait as it provides factual information about the resignation of the top two aides of a presidential candidate. Therefore, the value for ""clickbait"" in this case would be 0."
+US rejects EU proposal to give Internet control to the UN,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given news headline states that the US has rejected a proposal from the EU to give internet control to the United Nations. This information is presented in a straightforward manner, making it a clear example of a clickbait headline. Therefore, the answer is a JSON object with a single key ""clickbait"" mapped to 0, indicating that the headline is not clickbait."
+A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified"" is a clickbait as it generates curiosity and interest in the story, making readers want to click on the article to read more. The use of the word ""prank"" and the fact that it happened on the bride's wedding day adds a sense of shock and horror, making it a clickbait."
+This Is What Happens When You Are Proposed To,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""This Is What Happens When You Are Proposed To"" is a clickbait as it is designed to grab the reader's attention and create curiosity. The use of the word ""What"" and the phrase ""Happens"" suggests a sensational or surprising revelation, which is common in clickbait content. Therefore, the value for ""clickbait"" is set to 1."
+"Lucas Glover, Sleeper Pick",0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""Lucas Glover, Sleeper Pick"" suggests that Lucas Glover is an underdog or a lesser-known golfer who is unexpectedly performing well. This creates a sense of excitement and intrigue, making the headline clickbait. Therefore, the value for ""clickbait"" is set to 1."
+"21 Times Tumblr Was Funniest About ""Game Of Thrones""",1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Pour Times Tumblr Was Funniest About ""Game Of Thrones"""" indicates that Tumblr's Pour Times publication was the funniest one when discussing ""Game of Thrones"". Therefore, the clickbait for this headline would be 1 (indicating that it is a clickbait)."
+The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" suggests that the article is likely to contain a list or ranking of men who are considered to be worthy of receiving Tina Belcher's affection from the TV show ""Bob's Burgers"". This creates a sense of clickbaity or sensationalism, as it implies that the article will contain surprising or unexpected information. Therefore, the value for ""clickbait"" is set to 1."
+North Korea conducts test of nuclear weapon,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""North Korea conducts test of nuclear weapon"" is a clickbait as it is attention-grabbing and misleading, suggesting that North Korea has successfully tested a nuclear weapon. This type of headline is designed to attract clicks and generate interest, often leading to further reading or media coverage. Therefore, the value for ""clickbait"" is 1."
+At least 24 dead in clashes in central Kenya,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""At least  Coulis dead in clashes in central Kenya"" is a clickbait as it is designed to grab the reader's attention and create a sense of urgency or sensationalism. The use of strong language like ""dead"" and ""clashes"" suggests a potentially violent or tragic event, which is a common technique used in news headlines to attract clicks and engagement. Therefore, the value for ""clickbait"" is set to 1."
+"11 Quotes That Prove ""Star Wars"" And ""The Princess Bride"" Are Basically The Same",1,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline does not contain any clickbait or sensationalistic language, so the value for the ""clickbait"" key will be 0."
+France to Lower Tax to Entice Diners to Restaurants,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""France to Lower Tax to Entice Diners to Restaurants"" suggests that France is planning to reduce taxes for restaurants in an attempt to attract more customers. This information can be considered as clickbait as it is designed to grab the reader's attention and create interest in the news. Therefore, the value for ""clickbait"" is set as 1."
+Baucus Takes Lead on Health Care,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Baucus Takes Lead on Health Care"" suggests that Senator Baucus has taken the lead in the discussion or development of a health care plan. This information is likely to grab the attention of readers and is commonly used as a clickbait to entice them to click on the article or story. Therefore, based on the information provided in the headline, I have returned a clickbait value of 1."
+Are You More Olivia Benson Or Olivia Benson,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Are You More Olivia Benson Or Olivia Benson"" is a clickbait as it suggests a comparison between two characters, which often grabs the reader's attention and encourages clicks. The headline is comparing the fictional characters Olivia Benson from Law & Order: SVU and Olivia Benson from Law & Order, which creates a sense of intrigue and prompts potential readers to click and learn more about the comparison. Therefore, the value for ""clickbait"" is set to 1."
+"Which Character From ""National Treasure"" Are You",1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Which Character From ""National Treasure"" Are You"" is a clickbait as it intrigues the reader by asking a question that can generate interest and clicks. The headline is asking the reader to identify their favorite character from the movie ""National Treasure"" which can lead to engagement and potentially increase website traffic. Therefore, the value for ""clickbait"" is set to 1."
+Hundreds of lawsuits filed against music sharers in US,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given news headline mentions that hundreds of lawsuits have been filed against music sharers in the US. This information is considered as clickbait as it generates curiosity and interest in the reader. Therefore, the value for ""clickbait"" is set to 1."
+Australia's richest man dies aged 68,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The headline provided is ""Australia's richest man dies aged 86"", which indicates that the richest man in Australia passed away at the age of 86. This information is not sensational or misleading, so the value for ""clickbait"" would be 0."
+I Lived Without A Phone For One Week And Here's What I Learned,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""I Lived Without A Phone For One Week And Here's What I Learned"" is a clickbait as it generates curiosity and interest in the reader by suggesting that the author lived without a phone for a week and learned something valuable from the experience. This type of headline is designed to grab the reader's attention and encourage them to click on the article to read more. Therefore, the value for ""clickbait"" is set to 1."
+Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" is a clickbait as it is designed to attract attention and generate clicks. The use of the word ""friendly"" and ""most"" in the headline suggests that Joseph Gordon-levitt is the most adorable child, which is an exaggeration and creates a sense of curiosity in the reader. Therefore, the value for ""clickbait"" is 1."
+21 Agonizing Truths For People Who Feel Too Much,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Pour Agonizing Truths For People Who Feel Too Much"" suggests that the news article contains information that may be difficult or painful for the readers to hear, but necessary for them to understand or accept. This description fits the definition of ""clickbait"" as it is meant to grab the reader's attention and entice them to click on the article to learn more. Therefore, the value for ""clickbait"" is set to 1."
+Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Fußball-Bundesliga ícula–ícula: Borussia Dortmund name Klopp as Head Coach"" is a clickbait headline as it creates a sense of excitement and urgency by using all-caps and exclamation marks. The use of ""ícula"" (which means ""also"" in Spanish) also adds to the sensationalism of the headline. Therefore, the answer is a JSON object with a single key ""clickbait"" mapped to 1 to indicate that the headline is clickbait."
+What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" is a clickbait as it creates curiosity and prompts the reader to click on the article or source to learn more about the topic. The use of the word ""wish"" suggests that there is potentially valuable information that was not known before the diagnosis, which can be an attention-grabbing phrase to entice readers to click and read more. Therefore, the value for ""clickbait"" is set to 1."
+Mass protest grows against Kudankulam nuclear power plant in India,0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Mass protest grows against Kudankulam nuclear power plant in India"" indicates that there is a growing opposition to the construction of the Kudankulam nuclear power plant in India. This information can be considered as a form of clickbait as it is designed to grab the reader's attention and create interest in the topic. Therefore, the value for ""clickbait"" is set to 1."
+Here's Why Ciara's Post-Baby Style Is Dope AF,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""Here's Why Ciara's Post-Baby Style Is Dope AF"" is a clickbait as it is designed to attract attention and generate clicks by using strong and provocative language. The word ""Dope AF"" is commonly used as an intensifier to emphasize a positive or strong opinion, making it a clickbait."
+10 Adorable Kids Who Have Way Better Style Than You,1,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline ""Pour Adorable Kids Who Have Way Better Style Than You"" does not contain any misleading or sensationalistic language that would indicate it as a clickbait. Therefore, the value for ""clickbait"" in this case would be 0."
+Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline is a clickbait as it creates a sensational and attention-grabbing title for the news article or video. The headline mentions Leonardo DiCaprio and Lady Gaga, both famous personalities, and the dramatic moment when Lady Gaga walked by him while accepting her award. This combination of well-known celebrities and a dramatic event makes the headline more appealing and likely to catch the reader's attention, making it a clickbait."
+This Is What $4 Of Street Food Looks Like Around The World,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""This Is What $4 Of Street Food Looks Like Around The World"" is a clickbait as it is designed to attract attention and generate clicks by presenting a visually appealing and unusual image of street food from different parts of the world for a low price of $4. The headline is likely to generate interest and curiosity in the reader, making it a clickbait."
+Can You Pass This Texas Food Test,1,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline ""Can You Pass This Texas Food Test"" seems to be a straightforward statement about a food-related test that is taking place in Texas. It does not contain any sensational or misleading information that would classify it as clickbait. Therefore, the value for the ""clickbait"" key in the JSON object is set to 0."
+"Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England",0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" is a clickbait because it is sensational and attention-grabbing, making the reader curious and eager to read more about the incident. The use of the word ""boy"" and ""six-year-old"" adds a human element to the story, making it more appealing to a wider audience. The phrase ""dies two weeks after falling through icy pond"" is also attention-grabbing as it highlights the tragic nature of the event. The location ""in Berkshire, England"" adds geographical context to the story, making it more relatable to readers in that region. Therefore, the news headline is clickbait and the value for the ""clickbait"" key is set to 1."
+Finger found in frozen custard by North Carolina man,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline ""Finger found in frozen custard by North Carolina man"" is a straightforward news article that does not contain any misleading or sensationalistic elements. Therefore, the clickbait value for this headline can be set to 0."
+This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare,1,1,"{
+  ""clickbait"": 1
+}
+Explanation: The given headline ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" is a clickbait as it is designed to grab the reader's attention and create curiosity. The use of strong language and a sensational title suggests that the story might be surprising or unusual, making it more likely to be shared or clicked on by readers. Therefore, the value for ""clickbait"" is set to 1."
+"Passenger claims to have bomb, killed by air marshals at Miami International Airport",0,1,"{
+  ""clickbait"": 1
+}
+Explanation: The headline ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" is a clickbait as it creates a sensational and misleading headline that appeals to the reader's curiosity and fear. The use of the word ""claim"" suggests that the passenger may not have been entirely truthful about having a bomb, while the mention of ""killed by air marshals"" adds a sense of danger and urgency to the story. Therefore, the key ""clickbait"" is set to 1."
+"We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An ""Everest"" Climb",1,0,"{
+  ""clickbait"": 0
+}
+Reasoning: The given headline does not contain any misleading or sensationalistic information, making it a straightforward and informative piece of news. Therefore, the clickbait value would be 0, indicating that the headline is not clickbait."
+World Food Program told to leave North Korea,0,0,"{
+  ""clickbait"": 0
+}
+Explanation: The given headline ""World Food Program told to leave North Korea"" indicates that the World Food Program is being asked to leave North Korea. This information can be considered as a form of clickbait as it generates curiosity and generates interest in the story. Therefore, the value for ""clickbait"" is set to 1."

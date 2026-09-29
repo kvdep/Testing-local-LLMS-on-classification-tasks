@@ -1,0 +1,437 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,"```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+To analyze the batch of headlines and provide a JSON object with predictions, we need to understand the context and purpose of the classification. In this case, it seems that we are dealing with a binary classification task, where the headlines are either negative (0) or positive (1) in sentiment.
+
+1. Over 100 dead in Libyan plane crash: This headline is negative, as it reports a tragic event with loss of life.
+2. Three of Serbia's neighbours recognize Kosovo: This headline is positive, as it indicates a significant diplomatic recognition.
+
+Based on the analysis, the JSON object with the predictions would be:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+```
+
+This means that the first headline (""Over 100 dead in Libyan plane crash"") is classified as negative (0), and the second headline (""Three of Serbia's neighbours recognize Kosovo"") is classified as positive (1). 
+
+As an AI language model, I can provide a more detailed analysis of the headlines and the classification process:
+
+1. ""Over 100 dead in Libyan plane crash"": This headline is negative because it reports a catastrophic event that resulted in a large number of fatalities. The use of phrases like ""over 100 dead"" and ""plane crash"" indicates a sense of tragedy and loss, which are typically associated with negative sentiment.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"": This headline is positive because it highlights a diplomatic achievement. The recognition of Kosovo by three of Serbia's neighbors is seen as a significant step towards normalization of relations and can be perceived as a positive development. The use of the word ""recognize"" implies a sense of progress and acceptance, which are generally associated with positive sentiment.
+
+Based on the analysis, the JSON object with the predictions would be:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+```
+
+This indicates that the first headline is classified as negative (0), and the second headline is classified as positive (1). 
+
+As an AI language model, I can provide a more detailed analysis of the headlines and the classification process:"
+Three of Serbia's neighbours recognize Kosovo,0,1,"```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+To analyze the batch of headlines and provide a JSON object with predictions, we need to understand the context and purpose of the classification. In this case, it seems that we are dealing with a binary classification task, where the headlines are either negative (0) or positive (1) in sentiment.
+
+1. Over 100 dead in Libyan plane crash: This headline is negative, as it reports a tragic event with loss of life.
+2. Three of Serbia's neighbours recognize Kosovo: This headline is positive, as it indicates a significant diplomatic recognition.
+
+Based on the analysis, the JSON object with the predictions would be:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+```
+
+This means that the first headline (""Over 100 dead in Libyan plane crash"") is classified as negative (0), and the second headline (""Three of Serbia's neighbours recognize Kosovo"") is classified as positive (1). 
+
+As an AI language model, I can provide a more detailed analysis of the headlines and the classification process:
+
+1. ""Over 100 dead in Libyan plane crash"": This headline is negative because it reports a catastrophic event that resulted in a large number of fatalities. The use of phrases like ""over 100 dead"" and ""plane crash"" indicates a sense of tragedy and loss, which are typically associated with negative sentiment.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"": This headline is positive because it highlights a diplomatic achievement. The recognition of Kosovo by three of Serbia's neighbors is seen as a significant step towards normalization of relations and can be perceived as a positive development. The use of the word ""recognize"" implies a sense of progress and acceptance, which are generally associated with positive sentiment.
+
+Based on the analysis, the JSON object with the predictions would be:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+```
+
+This indicates that the first headline is classified as negative (0), and the second headline is classified as positive (1). 
+
+As an AI language model, I can provide a more detailed analysis of the headlines and the classification process:"
+"Geithner, Member and Overseer of Finance Club",0,0,"```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+I analyzed the batch of headlines and used my natural language processing capabilities to determine that the first headline, ""Geithner, Member and Overseer of Finance Club,"" is related to finance and possibly a news article. Therefore, I assigned it a prediction of 0, indicating it is likely not a joke.
+
+The second headline, ""This Comic Proves You Have No Excuse Not To Meditate,"" is related to a humorous and motivational topic. Based on the context, I assigned it a prediction of 1, indicating it is likely a joke.
+
+Here is the JSON object with the predictions:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  "
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+I analyzed the batch of headlines and used my natural language processing capabilities to determine that the first headline, ""Geithner, Member and Overseer of Finance Club,"" is related to finance and possibly a news article. Therefore, I assigned it a prediction of 0, indicating it is likely not a joke.
+
+The second headline, ""This Comic Proves You Have No Excuse Not To Meditate,"" is related to a humorous and motivational topic. Based on the context, I assigned it a prediction of 1, indicating it is likely a joke.
+
+Here is the JSON object with the predictions:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+The ""predictions"" list contains the results of the analysis for each headline in the order they were provided. The first headline was classified as not a joke (0), and the second headline was classified as a joke (1). 
+
+The JSON object with the predictions is:
+
+```json
+{
+  "
+42 Dogs Who Found Their Forever Homes In 2015,1,0,"```json
+{
+  ""predictions"": [0, 1]
+}
+```
+To come up with the answer, I used the definition of the task, which is to analyze a batch of headlines and return a JSON object with a list of integers (0 or 1). The integers represent the predicted category for each headline. In this case, I assumed that 0 represents a headline about pets or animals, and 1 represents a headline about cafes or dining experiences.
+
+For the given headlines:
+1. ""42 Dogs Who Found Their Forever Homes In 2015"" is about dogs and adoption, so it is classified as 0.
+2. ""Cafe Experience Is Shifting to the Home"" is about cafes and dining experiences, so it is classified as 1.
+
+Therefore, the JSON object with the predicted categories for the headlines is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+To come up with the answer, I analyzed the headlines and used the definition of the task, which is to analyze a batch of headlines and return a JSON object with a list of integers (0 or 1). The integers represent the predicted category for each headline. In this case, I assumed that 0 represents a headline about pets or animals, and 1 represents a headline about cafes or dining experiences.
+
+For the given headlines:
+1. ""42 Dogs Who Found Their Forever Homes In 2015"" is about dogs and adoption, so it is classified as 0.
+2. ""Cafe Experience Is Shifting to the Home"" is about cafes and dining experiences, so it is classified as 1.
+
+Therefore, the JSON object with the predicted categories for the headlines is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+To come up with the answer, I analyzed the headlines and used the definition of the task, which is to analyze a batch of headlines and return a JSON object with a list of integers (0 or 1). The integers represent the predicted category for each headline. In this case, I assumed that 0 represents a headline about pets or animals, and 1 represents a headline about cafes or dining experiences.
+
+For the given headlines:
+1. ""42 Dogs Who Found Their"
+Cafe Experience Is Shifting to the Home,0,1,"```json
+{
+  ""predictions"": [0, 1]
+}
+```
+To come up with the answer, I used the definition of the task, which is to analyze a batch of headlines and return a JSON object with a list of integers (0 or 1). The integers represent the predicted category for each headline. In this case, I assumed that 0 represents a headline about pets or animals, and 1 represents a headline about cafes or dining experiences.
+
+For the given headlines:
+1. ""42 Dogs Who Found Their Forever Homes In 2015"" is about dogs and adoption, so it is classified as 0.
+2. ""Cafe Experience Is Shifting to the Home"" is about cafes and dining experiences, so it is classified as 1.
+
+Therefore, the JSON object with the predicted categories for the headlines is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+To come up with the answer, I analyzed the headlines and used the definition of the task, which is to analyze a batch of headlines and return a JSON object with a list of integers (0 or 1). The integers represent the predicted category for each headline. In this case, I assumed that 0 represents a headline about pets or animals, and 1 represents a headline about cafes or dining experiences.
+
+For the given headlines:
+1. ""42 Dogs Who Found Their Forever Homes In 2015"" is about dogs and adoption, so it is classified as 0.
+2. ""Cafe Experience Is Shifting to the Home"" is about cafes and dining experiences, so it is classified as 1.
+
+Therefore, the JSON object with the predicted categories for the headlines is:
+
+```json
+{
+  ""predictions"": [0, 1]
+}
+``` 
+
+To come up with the answer, I analyzed the headlines and used the definition of the task, which is to analyze a batch of headlines and return a JSON object with a list of integers (0 or 1). The integers represent the predicted category for each headline. In this case, I assumed that 0 represents a headline about pets or animals, and 1 represents a headline about cafes or dining experiences.
+
+For the given headlines:
+1. ""42 Dogs Who Found Their"
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,0,"```json
+{
+  ""predictions"": [0, 1]
+}
+```
+1. 22 Mouthwatering Foods You Won't Believe Contain Alcohol - Prediction: 0 (This headline is sensational and exaggerated, implying it's likely not a serious news article.)
+2. 'Denmark will be attacked' says one expert, 'Denmark safe' says another - Prediction: 1 (This headline presents a clear news event or issue, suggesting it's a serious news article.)"
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,"```json
+{
+  ""predictions"": [0, 1]
+}
+```
+1. 22 Mouthwatering Foods You Won't Believe Contain Alcohol - Prediction: 0 (This headline is sensational and exaggerated, implying it's likely not a serious news article.)
+2. 'Denmark will be attacked' says one expert, 'Denmark safe' says another - Prediction: 1 (This headline presents a clear news event or issue, suggesting it's a serious news article.)"
+Indiana tornado kills at least 19,0,0,"```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0"
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0, 1]
+}
+``` ```json
+{
+  ""predictions"": [0"

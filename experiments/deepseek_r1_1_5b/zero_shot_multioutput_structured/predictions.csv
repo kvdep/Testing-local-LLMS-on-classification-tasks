@@ -1,0 +1,1431 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+Three of Serbia's neighbours recognize Kosovo,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+"Geithner, Member and Overseer of Finance Club",0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+This Comic Proves You Have No Excuse Not To Meditate,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+Cafe Experience Is Shifting to the Home,0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+Indiana tornado kills at least 19,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Over 100 dead in Libyan plane crash"" – That sounds like a serious news event. I think it's a fact because news outlets usually report such accidents. So I'll put 1 here.
+
+2. ""Three of Serbia's neighbours recognize Kosovo"" – Kosovo is a real entity, so this is definitely a fact. I'll mark it as 1.
+
+3. ""Geithner, Member and Overseer of Finance Club"" – Finance Club is a real organization, so this is a fact. 1.
+
+4. ""This Comic Proves You Have No Excuse Not To Meditate"" – This is a joke. It's not a fact; it's opinion. So 0.
+
+5. ""42 Dogs Who Found Their Forever Homes In 2015"" – This is a fact about a real event. 1.
+
+6. ""Cafe Experience Is Shifting to the Home"" – This is a business announcement, so it's opinion. 0.
+
+7. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" – This is a fact about food products. 1.
+
+8. ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" – This is a fact about political statements. 1.
+
+9. ""Indiana tornado kills at least 19"" – Another news event, so 1.
+
+10. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – This is a joke. 0.
+
+I think that's all of them. I don't see any other opinions here. Each headline is either a fact or a joke, so I can confidently assign the 0s and 1s as I did.
+</think>
+
+```json
+{
+  ""predictions"": [1, 1, 1, 0, 1, 0, 1, 1, 1, 0]
+}
+```"
+Study finds marijuana use leads to brain development in rats,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+13 Hashtags Too Real For Anyone Who Grew Up Catholic,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+China prepared to support eurozone countries hit by financial crisis,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+U.S. GDP sees worst drop in five decades,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+23 Things That Happen When Two Girls Live Together,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+"Carter: US ""likely behind"" Venezuela coup",0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+16 Times Bollywood Stars Gave You Intense Vacation Goals,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+Top two aides quit US presidential candidate McCain's campaign,0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+US rejects EU proposal to give Internet control to the UN,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""Study finds marijuana use leads to brain development in rats."" This sounds like a scientific study, so it's definitely a fact. I'll mark it as 1.
+
+2. ""13 Hashtags Too Real For Anyone Who Grew Up Catholic."" This is a reference to a meme or trend, not a serious news headline. It's opinion, so 0.
+
+3. ""China prepared to support eurozone countries hit by financial crisis."" This is a statement about China's preparedness, which is a factual statement. So 1.
+
+4. ""U.S. GDP sees worst drop in five decades."" This is a news about economic data, so it's a fact. 1.
+
+5. ""23 Things That Happen When Two Girls Live Together."" This is a list of events, not a fact. It's opinion, so 0.
+
+6. ""Carter: US 'likely behind' Venezuela coup."" This is a political statement, not a fact. It's opinion, so 0.
+
+7. ""16 Times Bollywood Stars Gave You Intense Vacation Goals."" This is a statement about Bollywood, not a fact. 0.
+
+8. ""Top two aides quit US presidential candidate McCain's campaign."" This is a statement about someone's campaign, not a fact. 0.
+
+9. ""US rejects EU proposal to give Internet control to the UN."" This is a news statement, so 1.
+
+10. ""A Groom Pulled A Prank On His Bride On Their Wedding Day That Left Her Horrified."" This is a funny story, not a fact. 0.
+
+So, the predictions list should be [1, 0, 1, 1, 0, 0, 0, 0, 1, 0].
+</think>
+
+```json
+{
+  ""predictions"": [1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+}
+```"
+This Is What Happens When You Are Proposed To,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+"Lucas Glover, Sleeper Pick",0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+"21 Times Tumblr Was Funniest About ""Game Of Thrones""",1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+North Korea conducts test of nuclear weapon,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+At least 24 dead in clashes in central Kenya,0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+"11 Quotes That Prove ""Star Wars"" And ""The Princess Bride"" Are Basically The Same",1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+France to Lower Tax to Entice Diners to Restaurants,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+Baucus Takes Lead on Health Care,0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+Are You More Olivia Benson Or Olivia Benson,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means it's a fact and 0 means it's opinion. Let me go through each one step by step.
+
+1. ""This Is What Happens When You Are Proposed To"" – Hmm, this sounds like a joke or a meme. I'm not sure if it's a fact or opinion. Maybe it's more of a meme than a serious statement. So I'll put 0 here.
+
+2. ""Lucas Glover, Sleeper Pick"" – This seems like a reference to a sports pick, possibly from a game show. It's more of a fact than opinion. So 1.
+
+3. ""21 Times Tumblr Was Funniest About 'Game Of Thrones'"" – This is a well-known fact. I've heard that Tumblr has been used humorously in various contexts, including Game of Thrones. So 1.
+
+4. ""The Definitive Ranking Of Dudes Who Deserve Tina Belcher's Love"" – This is definitely opinion-based. It's a subjective statement about who deserves love, so it's not a fact. 0.
+
+5. ""North Korea conducts test of nuclear weapon"" – This is a serious news headline about a nuclear test. It's a fact because it's a factual statement about an event. So 1.
+
+6. ""At least 24 dead in clashes in central Kenya"" – This is a serious news headline about casualties. It's a fact. So 1.
+
+7. ""11 Quotes That Prove 'Star Wars' And 'The Princess Bride' Are Basically The Same"" – These are quotes from two movies, so they're facts. 1.
+
+8. ""France to Lower Tax to Entice Diners to Restaurants"" – This is a fact about a policy change. So 1.
+
+9. ""Baucus Takes Lead on Health Care"" – This is a fact about a political figure's role. So 1.
+
+10. ""Are You More Olivia Benson Or Olivia Benson"" – This is a joke or opinion question. It's not a fact. So 0.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""headlines"": [
+    ""This Is What Happens When You Are Proposed To"",
+    ""Lucas Glover, Sleeper Pick"",
+    ""21 Times Tumblr Was"
+"Which Character From ""National Treasure"" Are You",1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+Hundreds of lawsuits filed against music sharers in US,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+Australia's richest man dies aged 68,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+I Lived Without A Phone For One Week And Here's What I Learned,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+21 Agonizing Truths For People Who Feel Too Much,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach,0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+Mass protest grows against Kudankulam nuclear power plant in India,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+Here's Why Ciara's Post-Baby Style Is Dope AF,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the sentiment is positive and 0 means it's negative. Let me go through each one step by step.
+
+1. ""Which Character From 'National Treasure' Are You"" – Hmm, this seems like a question, not a statement. It's not expressing a sentiment towards a character, so I'll probably assign 0.
+
+2. ""Hundreds of lawsuits filed against music sharers in US"" – This clearly indicates that there's a lot of legal issues, which suggests negativity. So, 0.
+
+3. ""Australia's richest man dies aged 68"" – A 68-year-old passing is a significant loss, but it's not a strong indicator of positive sentiment. It's more of a tragedy, so 0.
+
+4. ""I Lived Without A Phone For One Week And Here's What I Learned"" – This is a personal reflection on the consequences of not having a phone. It's about learning from past mistakes, which is positive. So, 1.
+
+5. ""Friendly Reminder That Joseph Gordon-Levitt Was The Most Adorable Child"" – This is a positive statement about a child's character. It's uplifting and gives hope, so 1.
+
+6. ""21 Agonizing Truths For People Who Feel Too Much"" – This is a list of painful truths, which is definitely negative. So, 0.
+
+7. "" Fußball-Bundesliga 2008–09: Borussia Dortmund name Klopp as Head Coach"" – This is a factual statement about a football team and their coach. It's neutral, so 0.
+
+8. ""What Do You Wish You'd Known About Breast Cancer Before Being Diagnosed"" – This is a question about desires regarding breast cancer, which is more about personal feelings rather than sentiment. So, 0.
+
+9. ""Mass protest grows against Kudankulam nuclear power plant in India"" – This is a statement about a protest, which is a negative event. So, 0.
+
+10. ""Here's Why Ciara's Post-Baby Style Is Dope AF"" – This is a statement about Ciara's fashion choices, which is positive. So, 1.
+
+I think that's all of them. I should make sure I didn't miss any nuances, but these seem to cover each headline appropriately.
+</think>
+
+```json
+{
+  ""(predictions)"": [
+"
+10 Adorable Kids Who Have Way Better Style Than You,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+This Is What $4 Of Street Food Looks Like Around The World,1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+Can You Pass This Texas Food Test,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+"Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England",0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+Finger found in frozen custard by North Carolina man,0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare,1,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+"Passenger claims to have bomb, killed by air marshals at Miami International Airport",0,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+"We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An ""Everest"" Climb",1,1,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"
+World Food Program told to leave North Korea,0,0,"Alright, so I need to analyze these headlines and classify each as either 0 or 1, where 1 means the headline is about food and 0 means it's not. Let me go through each one step by step.
+
+1. ""10 Adorable Kids Who Have Way Better Style Than You"" – This clearly mentions kids and style, so it's definitely about food. I'll mark this as 1.
+
+2. ""Leonardo DiCaprio's Face When Lady Gaga Walked By Him To Accept Her Award Is Everything"" – This is a bit confusing. It's talking about a famous actor and a famous artist, but it doesn't mention any food. So, no food involved here. I'll put this as 0.
+
+3. ""This Is What $4 Of Street Food Looks Like Around The World"" – This headline is directly about street food and its price, which is a food topic. So, 1.
+
+4. ""Can You Pass This Texas Food Test"" – This is a test question about Texas food, so it's definitely food-related. 1.
+
+5. ""Six-year-old boy dies two weeks after falling through icy pond in Berkshire, England"" – This is about a child's death, which is a personal event, not food. So, 0.
+
+6. ""Finger found in frozen custard by North Carolina man"" – Again, this is about a finger found in food, which is food-related. 1.
+
+7. ""This Guy Forgot His ID And Became Every Bouncer's Worst Nightmare"" – This is a joke about a guy forgetting his ID, which is a joke, not food. 0.
+
+8. ""Passenger claims to have bomb, killed by air marshals at Miami International Airport"" – This is about a bomb and an airport, not food. 0.
+
+9. ""We Asked Jake Gyllenhaal And Jason Clarke Who They Would Bring On An 'Everest' Climb"" – This is a joke about a climb, not food. 0.
+
+10. ""World Food Program told to leave North Korea"" – This is about the World Food Program and a country, not food. 0.
+
+So, summarizing the classifications: 1, 0, 1, 1, 0, 1, 0, 0, 0, 0. Now, I need to format this into a JSON object with the key ""predictions"" and a list of integers in the order of"

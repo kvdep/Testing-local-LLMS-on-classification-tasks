@@ -1,0 +1,107 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"{""predictions"": [1, 1]} 
+"
+Three of Serbia's neighbours recognize Kosovo,0,1,"{""predictions"": [1, 1]} 
+"
+"Geithner, Member and Overseer of Finance Club",0,0,"```json
+{""predictions"": [0, 1]}
+``` 
+
+
+Let me explain my reasoning:
+
+* **Headline 1:** ""Geithner, Member and Overseer of Finance Club"" sounds like a factual news headline, likely about a person and their role in a financial organization. 
+* **Headline 2:** ""This Comic Proves You Have No Excuse Not To Meditate""  has a more persuasive and clickbaity tone, suggesting a benefit or solution. This aligns with the style often seen in articles aiming to promote a particular idea or product. 
+
+
+
+Let me know if you'd like me to analyze more headlines!
+"
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"```json
+{""predictions"": [0, 1]}
+``` 
+
+
+Let me explain my reasoning:
+
+* **Headline 1:** ""Geithner, Member and Overseer of Finance Club"" sounds like a factual news headline, likely about a person and their role in a financial organization. 
+* **Headline 2:** ""This Comic Proves You Have No Excuse Not To Meditate""  has a more persuasive and clickbaity tone, suggesting a benefit or solution. This aligns with the style often seen in articles aiming to promote a particular idea or product. 
+
+
+
+Let me know if you'd like me to analyze more headlines!
+"
+42 Dogs Who Found Their Forever Homes In 2015,1,0,"```json
+{""predictions"": [0, 0]}
+``` 
+
+
+Let me explain:
+
+* **Headline 1:**  This headline focuses on a heartwarming animal story, likely from a blog or news section about pets. It's not designed to be clickbaity or promise a specific outcome.
+* **Headline 2:** This headline discusses a trend in the cafe industry, suggesting a change in consumer behavior. It's informative rather than sensational. 
+
+Both headlines lack the typical characteristics of clickbait:
+
+* **Exaggerated claims:**  Neither headline promises something unbelievable or outlandish.
+* **Intriguing secrets or tricks:** There's no mention of hidden knowledge or shortcuts.
+* **Emotional manipulation:** While the first headline might evoke positive feelings, it's not designed to exploit strong emotions.
+
+
+
+Let me know if you have more headlines to classify!
+"
+Cafe Experience Is Shifting to the Home,0,0,"```json
+{""predictions"": [0, 0]}
+``` 
+
+
+Let me explain:
+
+* **Headline 1:**  This headline focuses on a heartwarming animal story, likely from a blog or news section about pets. It's not designed to be clickbaity or promise a specific outcome.
+* **Headline 2:** This headline discusses a trend in the cafe industry, suggesting a change in consumer behavior. It's informative rather than sensational. 
+
+Both headlines lack the typical characteristics of clickbait:
+
+* **Exaggerated claims:**  Neither headline promises something unbelievable or outlandish.
+* **Intriguing secrets or tricks:** There's no mention of hidden knowledge or shortcuts.
+* **Emotional manipulation:** While the first headline might evoke positive feelings, it's not designed to exploit strong emotions.
+
+
+
+Let me know if you have more headlines to classify!
+"
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"```json
+{""predictions"": [1, 0]}
+``` 
+
+
+Let me explain:
+
+* **Headline 1:**  ""22 Mouthwatering Foods You Won't Believe Contain Alcohol""  is likely clickbait, aiming to entice readers with a surprising or sensational claim. This aligns with the pattern of headlines designed to attract attention.
+
+* **Headline 2:** ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" presents contrasting opinions on a serious topic. This is more likely to be factual news reporting. 
+
+
+
+Let me know if you have more headlines to classify!
+"
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"```json
+{""predictions"": [1, 0]}
+``` 
+
+
+Let me explain:
+
+* **Headline 1:**  ""22 Mouthwatering Foods You Won't Believe Contain Alcohol""  is likely clickbait, aiming to entice readers with a surprising or sensational claim. This aligns with the pattern of headlines designed to attract attention.
+
+* **Headline 2:** ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" presents contrasting opinions on a serious topic. This is more likely to be factual news reporting. 
+
+
+
+Let me know if you have more headlines to classify!
+"
+Indiana tornado kills at least 19,0,0,"{""predictions"": [0, 1]} 
+"
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"{""predictions"": [0, 1]} 
+"

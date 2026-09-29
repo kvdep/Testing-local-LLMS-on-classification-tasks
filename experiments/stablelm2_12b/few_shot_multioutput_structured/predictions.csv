@@ -1,0 +1,67 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,"{""predictions"": [0, 1]} 
+
+In this response, the numbers 0 and 1 represent binary classification results, where 0 typically denotes a non-sensational or neutral headline, and 1 denotes a more sensational or clickbaity headline. The specific headlines provided were classified as follows:
+
+1. Over dead in Libyan plane crash - This headline contains information about a plane crash, which could be considered newsworthy and might attract more attention. Therefore, it's classified as 1.
+2. Three of Serbia's neighbours recognize Kosovo - This headline reports on diplomatic relations between countries, which might be considered important news. It's also classified as 1.
+
+Note that the exact classification criteria may vary depending on the specific use case and the trained model."
+Three of Serbia's neighbours recognize Kosovo,0,1,"{""predictions"": [0, 1]} 
+
+In this response, the numbers 0 and 1 represent binary classification results, where 0 typically denotes a non-sensational or neutral headline, and 1 denotes a more sensational or clickbaity headline. The specific headlines provided were classified as follows:
+
+1. Over dead in Libyan plane crash - This headline contains information about a plane crash, which could be considered newsworthy and might attract more attention. Therefore, it's classified as 1.
+2. Three of Serbia's neighbours recognize Kosovo - This headline reports on diplomatic relations between countries, which might be considered important news. It's also classified as 1.
+
+Note that the exact classification criteria may vary depending on the specific use case and the trained model."
+"Geithner, Member and Overseer of Finance Club",0,0,"To analyze these headlines, I'll classify them as binary categories (0 for non-clickbaity, 1 for clickbaity). Here are the predictions:
+
+1. ""Geithner, Member and Overseer of Finance Club"" - This headline seems informative and not clickbaity. So, the prediction is 0.
+2. ""This Comic Proves You Have No Excuse Not To Meditate"" - The use of ""This Comic Proves"" suggests a catchy and engaging title, which could be clickbaity. So, the prediction is 1.
+
+JSON object:
+{""predictions"": [0, 1]}"
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"To analyze these headlines, I'll classify them as binary categories (0 for non-clickbaity, 1 for clickbaity). Here are the predictions:
+
+1. ""Geithner, Member and Overseer of Finance Club"" - This headline seems informative and not clickbaity. So, the prediction is 0.
+2. ""This Comic Proves You Have No Excuse Not To Meditate"" - The use of ""This Comic Proves"" suggests a catchy and engaging title, which could be clickbaity. So, the prediction is 1.
+
+JSON object:
+{""predictions"": [0, 1]}"
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"Here are the predictions as a JSON object:
+
+```json
+{
+  ""predictions"": [1, 0]
+}
+```
+
+In this case, the first headline talks about dogs finding their forever homes, which might be considered positive and related to a heartwarming story, hence the prediction is 1 (class 0 for positive). The second headline discusses a shift in the cafe experience to homes, which doesn't have a clear positive or negative sentiment, so it's 0 (class 0 for neutral or negative)."
+Cafe Experience Is Shifting to the Home,0,0,"Here are the predictions as a JSON object:
+
+```json
+{
+  ""predictions"": [1, 0]
+}
+```
+
+In this case, the first headline talks about dogs finding their forever homes, which might be considered positive and related to a heartwarming story, hence the prediction is 1 (class 0 for positive). The second headline discusses a shift in the cafe experience to homes, which doesn't have a clear positive or negative sentiment, so it's 0 (class 0 for neutral or negative)."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"{""predictions"": [1, 0]} 
+
+In this case, the classifier predicts the binary classification result for each headline. The model classifies headlines as either ""0"" (non-clickbait) or ""1"" (clickbait).
+
+1. ""Mouthwatering Foods You Won't Believe Contain Alcohol"" might be considered clickbait due to its attention-grabbing language. Therefore, the prediction for this headline is 1.
+2. ""Denmark will be attacked' says one expert, 'Denmark safe' says another"" is a news headline discussing differing opinions, which is a more neutral statement and less likely to be clickbait. Hence, the prediction for this headline is 0."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"{""predictions"": [1, 0]} 
+
+In this case, the classifier predicts the binary classification result for each headline. The model classifies headlines as either ""0"" (non-clickbait) or ""1"" (clickbait).
+
+1. ""Mouthwatering Foods You Won't Believe Contain Alcohol"" might be considered clickbait due to its attention-grabbing language. Therefore, the prediction for this headline is 1.
+2. ""Denmark will be attacked' says one expert, 'Denmark safe' says another"" is a news headline discussing differing opinions, which is a more neutral statement and less likely to be clickbait. Hence, the prediction for this headline is 0."
+Indiana tornado kills at least 19,0,0,"Given the variety of headlines, let's classify them as 0 for the first headline about the tornado and 1 for the second headline related to a hypothetical situation in the Enchanted Forest.
+
+JSON object: {""predictions"": [0, 1]}"
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"Given the variety of headlines, let's classify them as 0 for the first headline about the tornado and 1 for the second headline related to a hypothetical situation in the Enchanted Forest.
+
+JSON object: {""predictions"": [0, 1]}"

@@ -1,0 +1,107 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""Over 100 dead in Libyan plane crash"" is about a tragic event, which can be classified as negative news.
+
+2. The headline ""Three of Serbia's neighbours recognize Kosovo"" is about a political event, which can be classified as neutral or positive news.
+
+Since the classifier is binary (0 for negative and 1 for neutral/positive), we classify the second headline as neutral/positive (1)."
+Three of Serbia's neighbours recognize Kosovo,0,0,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""Over 100 dead in Libyan plane crash"" is about a tragic event, which can be classified as negative news.
+
+2. The headline ""Three of Serbia's neighbours recognize Kosovo"" is about a political event, which can be classified as neutral or positive news.
+
+Since the classifier is binary (0 for negative and 1 for neutral/positive), we classify the second headline as neutral/positive (1)."
+"Geithner, Member and Overseer of Finance Club",0,1,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""Geithner, Member and Overseer of Finance Club"" is about a person (Geithner) and his role in a club (Member and Overseer of Finance Club). This can be classified as a news headline.
+
+2. The headline ""This Comic Proves You Have No Excuse Not To Meditate"" is not a news headline. It is more likely a humorous or engaging title for an article, blog post, or social media post. It is not typically associated with traditional news outlets."
+This Comic Proves You Have No Excuse Not To Meditate,1,0,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""Geithner, Member and Overseer of Finance Club"" is about a person (Geithner) and his role in a club (Member and Overseer of Finance Club). This can be classified as a news headline.
+
+2. The headline ""This Comic Proves You Have No Excuse Not To Meditate"" is not a news headline. It is more likely a humorous or engaging title for an article, blog post, or social media post. It is not typically associated with traditional news outlets."
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""42 Dogs Who Found Their Forever Homes In 2015"" is about animals (specifically dogs) and their homes, which can be associated with the topic of ""Pets"" or ""Animals"".
+
+2. The headline ""Cafe Experience Is Shifting to the Home"" is not directly related to pets or animals, but rather about a change in the experience of cafes, which can be associated with the topic of ""Food & Drink"" or ""Lifestyle"".
+
+Since the exact categories might not be available, I've used binary values (1 for ""Pets"" or ""Animals"" and 0 for ""Food & Drink"" or ""Lifestyle"") to represent the predictions."
+Cafe Experience Is Shifting to the Home,0,0,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""42 Dogs Who Found Their Forever Homes In 2015"" is about animals (specifically dogs) and their homes, which can be associated with the topic of ""Pets"" or ""Animals"".
+
+2. The headline ""Cafe Experience Is Shifting to the Home"" is not directly related to pets or animals, but rather about a change in the experience of cafes, which can be associated with the topic of ""Food & Drink"" or ""Lifestyle"".
+
+Since the exact categories might not be available, I've used binary values (1 for ""Pets"" or ""Animals"" and 0 for ""Food & Drink"" or ""Lifestyle"") to represent the predictions."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" is about food, and it mentions alcohol, so it can be classified as a food-related headline.
+
+2. The headline ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" is not about food, but rather a political or conflict-related topic. It does not mention food or alcohol, so it cannot be classified as a food-related headline.
+
+Therefore, the JSON object would have a single key ""predictions"" which maps to a list of integers [1, 0] in the exact order of the inputs, where 1 represents a food-related headline and 0 represents a non-food-related headline."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" is about food, and it mentions alcohol, so it can be classified as a food-related headline.
+
+2. The headline ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" is not about food, but rather a political or conflict-related topic. It does not mention food or alcohol, so it cannot be classified as a food-related headline.
+
+Therefore, the JSON object would have a single key ""predictions"" which maps to a list of integers [1, 0] in the exact order of the inputs, where 1 represents a food-related headline and 0 represents a non-food-related headline."
+Indiana tornado kills at least 19,0,1,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""Indiana tornado kills at least 19"" is about a natural disaster with human casualties, which is a news event.
+
+2. The headline ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" is not about a news event, but rather a hypothetical scenario or entertainment topic, which is not a news event.
+
+Therefore, the JSON object is { ""predictions"": [1, 0] where the first 1 corresponds to the news event headline and the second 0 corresponds to the non-news event headline."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,0,"{
+  ""predictions"": [1, 0]
+}
+
+Explanation:
+
+1. The headline ""Indiana tornado kills at least 19"" is about a natural disaster with human casualties, which is a news event.
+
+2. The headline ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" is not about a news event, but rather a hypothetical scenario or entertainment topic, which is not a news event.
+
+Therefore, the JSON object is { ""predictions"": [1, 0] where the first 1 corresponds to the news event headline and the second 0 corresponds to the non-news event headline."

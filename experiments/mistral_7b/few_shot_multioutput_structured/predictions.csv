@@ -1,0 +1,39 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"{""predictions"": [1, 1]}
+
+Explanation:
+1. The headline ""Over 100 dead in Libyan plane crash"" is about a tragic event, which is often associated with negative sentiment.
+2. The headline ""Three of Serbia's neighbours recognize Kosovo"" is about a political event, which can be perceived as neutral or positive depending on the context, but generally carries a neutral sentiment."
+Three of Serbia's neighbours recognize Kosovo,0,1,"{""predictions"": [1, 1]}
+
+Explanation:
+1. The headline ""Over 100 dead in Libyan plane crash"" is about a tragic event, which is often associated with negative sentiment.
+2. The headline ""Three of Serbia's neighbours recognize Kosovo"" is about a political event, which can be perceived as neutral or positive depending on the context, but generally carries a neutral sentiment."
+"Geithner, Member and Overseer of Finance Club",0,1,"{""predictions"": [1, 1]}"
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"{""predictions"": [1, 1]}"
+42 Dogs Who Found Their Forever Homes In 2015,1,0,"{""predictions"": [0, 1]}
+
+Explanation:
+
+1. The headline ""42 Dogs Who Found Their Forever Homes In 2015"" is about a specific number of dogs finding homes, which is not a financial or business-related topic. Therefore, it is not likely to contain a trick that will save thousands.
+2. The headline ""Cafe Experience Is Shifting to the Home"" suggests a change in the cafe industry, which is a business-related topic. Therefore, it is likely to contain information about a trick or strategy that could potentially save thousands."
+Cafe Experience Is Shifting to the Home,0,1,"{""predictions"": [0, 1]}
+
+Explanation:
+
+1. The headline ""42 Dogs Who Found Their Forever Homes In 2015"" is about a specific number of dogs finding homes, which is not a financial or business-related topic. Therefore, it is not likely to contain a trick that will save thousands.
+2. The headline ""Cafe Experience Is Shifting to the Home"" suggests a change in the cafe industry, which is a business-related topic. Therefore, it is likely to contain information about a trick or strategy that could potentially save thousands."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"{""predictions"": [1, 0]}
+
+Explanation:
+The first headline is about food, and it mentions alcohol, which is a topic that is not typically associated with a political event or visit. Therefore, it is unlikely to be about a political event or visit.
+
+The second headline is about a potential attack on Denmark, which is a political event. However, it also mentions that another expert says Denmark is safe, which suggests that it is not an urgent or critical event. Therefore, it is not a state visit, which is usually a formal and ceremonial event with a high level of importance."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"{""predictions"": [1, 0]}
+
+Explanation:
+The first headline is about food, and it mentions alcohol, which is a topic that is not typically associated with a political event or visit. Therefore, it is unlikely to be about a political event or visit.
+
+The second headline is about a potential attack on Denmark, which is a political event. However, it also mentions that another expert says Denmark is safe, which suggests that it is not an urgent or critical event. Therefore, it is not a state visit, which is usually a formal and ceremonial event with a high level of importance."
+Indiana tornado kills at least 19,0,1,"{""predictions"": [1, 1]}"
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"{""predictions"": [1, 1]}"

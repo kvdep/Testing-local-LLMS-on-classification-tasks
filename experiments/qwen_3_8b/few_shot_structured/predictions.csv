@@ -1,0 +1,69 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,"<think>
+Okay, let's see. The user wants me to classify the headline ""Over 100 dead in Libyan plane crash"" as clickbait or not. First, I need to recall what makes a headline clickbait. Clickbait usually uses sensational language to attract clicks, often exaggerating or using emotionally charged words.
+
+The headline here is reporting a tragic event with a specific number: over 100 dead. That's a significant figure, which might make it newsworthy. But is it clickbait? Well, if the event is real and the number is accurate, then it's not clickbait. However, if the headline is trying to provoke emotion without substantial content, that's different. 
+
+The user's previous examples had ""You won't believe what happened next to this poor puppy!"" which was clickbait because it's using a dramatic statement to entice clicks. The other example about the Federal Reserve was factual and not clickbait. 
+
+In this case, the headline is stating a fact about a plane crash with a casualty count. Unless there's an element of exaggeration or false information, it's likely a genuine news headline. So, I should classify this as not clickbait. But I need to make sure there's no hidden agenda. Since the user hasn't provided more context, I'll go with the information given. The key is whether the headline is trying to manipulate emotions for clicks. Since it's a straightforward report of an event with a specific number, it's probably not clickbait.
+</think>
+
+{""clickbait"": 0} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+Three of Serbia's neighbours recognize Kosovo,0,0,"<think>
+Okay, let's see. The user wants me to classify the headline ""Three of Serbia's neighbours recognize Kosovo"" as clickbait or not. First, I need to understand what the headline is about. It seems to be a factual statement about political recognition between countries. The key here is whether the statement is trying to sensationalize an event or if it's a straightforward news headline.
+
+Clickbait headlines often use emotional triggers, exaggeration, or promise of shocking information. This headline doesn't have any emotional language or sensational words. It's stating a fact about political recognition, which is a serious geopolitical issue. Since it's presenting a factual event without trying to entice clicks through hype, it's likely not clickbait. Also, the mention of specific countries (Serbia's neighbors) and the action (recognize Kosovo) suggests it's a news report rather than a clickbait title. So, the answer should be 0 for not clickbait.
+</think>
+
+{""clickbait"": 0} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+"Geithner, Member and Overseer of Finance Club",0,0,"<think>
+Okay, let's analyze this headline: ""Geithner, Member and Overseer of Finance Club"". First, I need to determine if it's clickbait. Clickbait often uses sensational language or creates curiosity without substantial content.
+
+The headline mentions ""Geithner,"" which is a proper noun, likely referring to someone in finance. The title ""Member and Overseer of Finance Club"" sounds like a formal position. However, the phrase ""Finance Club"" is vague and doesn't provide specific information. There's no clear news angle or provocative statement here. It seems more like a title or a job description rather than clickbait. Since there's no sensationalism or attempt to lure clicks with exaggerated claims, it's probably not clickbait. 
+
+I should also consider if the mention of ""Finance Club"" is a red herring or if it's part of a larger context. Without additional context, the headline appears to be a straightforward title. Therefore, the clickbait score is low.
+</think>
+
+{""clickbait"": 0} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"<think>
+Okay, let's analyze this headline. ""This Comic Proves You Have No Excuse Not To Meditate."" First, I need to determine if it's clickbait. The phrase ""proves you have no excuse"" sounds like it's making a strong claim, possibly to provoke a reaction. It uses emotional appeal by suggesting that not meditating is a failure, which could be a tactic to entice clicks. However, the mention of a comic might be a red herring, as it's not clear if the comic actually provides evidence. The headline is trying to persuade the reader that they should meditate without any valid reasons, which is a common clickbait strategy. So, I would rate this as clickbait.
+</think>
+
+{""clickbait"": 1} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"<think>
+Okay, let's analyze this headline. ""42 Dogs Who Found Their Forever Homes In 2015."" First, I need to determine if it's clickbait. Clickbait often uses emotional triggers or sensational language to entice clicks.
+
+The headline mentions a specific number, 42 dogs, which is a common clickbait tactic to create curiosity. It also uses ""Forever Homes,"" which is a positive, emotionally appealing phrase often used in pet-related content. However, the year 2015 might be a red herring, as it's not uncommon for such lists to be retrospective. 
+
+Since the headline is factual but uses numbers and emotional language to attract attention, it's likely clickbait. The mention of a specific year could also be a way to make the story seem timely or relevant, even if it's an older list. Therefore, the clickbait score is high.
+</think>
+
+{""clickbait"": 1} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+Cafe Experience Is Shifting to the Home,0,0,"<think>
+Okay, let's analyze the headline ""Cafe Experience Is Shifting to the Home."" First, I need to determine if this is clickbait. Clickbait often uses sensational language or promises surprising information to entice clicks. The phrase ""shifting to the home"" suggests a trend or change, but it's presented as a factual statement. There's no dramatic language or emotional appeal here. It's more of a neutral observation about a business trend. Since there's no attempt to provoke strong reactions or use exaggerated claims, it's likely not clickbait. So, the clickbait score should be 0.
+</think>
+
+{""clickbait"": 0} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"<think>
+Okay, let's analyze this headline. ""22 Mouthwatering Foods You Won't Believe Contain Alcohol."" The key elements here are the number 22, the promise of surprising information, and the mention of alcohol in food. Clickbait headlines often use numbers to create a listicle effect, which is designed to entice clicks by suggesting there's a lot of content. The phrase ""You Won't Believe"" is a classic clickbait phrase that plays on curiosity and the desire to know something surprising. The mention of alcohol in food is a specific and potentially intriguing fact, which could be used to attract attention. However, the actual content might be a list of foods with alcohol, which could be seen as informative rather than purely clickbaity. But the structure and phrasing are classic clickbait elements. So, the answer is likely 1 for clickbait.
+</think>
+
+{""clickbait"": 1} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,"<think>
+Okay, let's analyze this headline. The user wants a clickbait classification. The headline presents conflicting expert opinions about Denmark's safety. It's designed to provoke curiosity by suggesting a potential threat, which is a common clickbait tactic. The use of ""says one expert"" vs. ""says another"" creates a sensationalized debate. So, this is likely clickbait.
+</think>
+
+{""clickbait"": 1} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+Indiana tornado kills at least 19,0,0,"<think>
+Okay, let's see. The headline is ""Indiana tornado kills at least 19."" I need to determine if this is clickbait.
+
+First, the content is about a tornado causing fatalities. That's a serious news event. Clickbait headlines often use emotional triggers or exaggerate for attention. But this seems like a factual report of an incident. The number ""at least 19"" is specific, which might indicate real casualties. Since it's a straightforward news headline without sensationalism, it's likely not clickbait. So the answer should be 0.
+</think>
+
+{""clickbait"": 0} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"<think>
+Okay, let's analyze this headline. ""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'"" – the key elements here are the question format and the reference to a fictional place. The mention of ""Once Upon A Time"" is a TV show, so the enchanted forest is a fictional setting. The question is hypothetical, asking if someone could survive a day there. Since it's a fictional scenario, the headline is likely using clickbait tactics to engage readers with a dramatic or intriguing question. The use of ""survive"" adds to the suspense, which is a common clickbait technique. Therefore, this headline is probably clickbait.
+</think>
+
+{""clickbait"": 1} Note: Your thinking/reasoning phase must be extremely concise (under 2-3 sentences max)."

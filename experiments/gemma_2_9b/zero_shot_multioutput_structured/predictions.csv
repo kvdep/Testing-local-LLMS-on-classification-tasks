@@ -1,0 +1,155 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,1,"```json
+{
+ ""predictions"": [1, 0]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1:** ""Over 100 dead in Libyan plane crash""  - This headline deals with a tragic event (death) and is likely classified as **1** (negative sentiment).
+* **Headline 2:** ""Three of Serbia's neighbours recognize Kosovo"" - This headline discusses a political event, which is generally not associated with strong negative sentiment. It's more likely classified as **0** (neutral sentiment). 
+
+
+Let me know if you have more headlines to classify! 
+"
+Three of Serbia's neighbours recognize Kosovo,0,0,"```json
+{
+ ""predictions"": [1, 0]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1:** ""Over 100 dead in Libyan plane crash""  - This headline deals with a tragic event (death) and is likely classified as **1** (negative sentiment).
+* **Headline 2:** ""Three of Serbia's neighbours recognize Kosovo"" - This headline discusses a political event, which is generally not associated with strong negative sentiment. It's more likely classified as **0** (neutral sentiment). 
+
+
+Let me know if you have more headlines to classify! 
+"
+"Geithner, Member and Overseer of Finance Club",0,0,"```json
+{
+ ""predictions"": [0, 1]
+}
+``` 
+
+**Explanation:**
+
+I've classified the headlines as follows:
+
+* **Headline 1: ""Geithner, Member and Overseer of Finance Club""** -  This headline appears to be a factual statement about a person and their role.  **Prediction: 0 (Not about personal development)**
+* **Headline 2: ""This Comic Proves You Have No Excuse Not To Meditate""** - This headline promotes a personal development concept (meditation). **Prediction: 1 (About personal development)** 
+
+
+Let me know if you have more headlines to classify! 
+"
+This Comic Proves You Have No Excuse Not To Meditate,1,1,"```json
+{
+ ""predictions"": [0, 1]
+}
+``` 
+
+**Explanation:**
+
+I've classified the headlines as follows:
+
+* **Headline 1: ""Geithner, Member and Overseer of Finance Club""** -  This headline appears to be a factual statement about a person and their role.  **Prediction: 0 (Not about personal development)**
+* **Headline 2: ""This Comic Proves You Have No Excuse Not To Meditate""** - This headline promotes a personal development concept (meditation). **Prediction: 1 (About personal development)** 
+
+
+Let me know if you have more headlines to classify! 
+"
+42 Dogs Who Found Their Forever Homes In 2015,1,0,"```json
+{
+ ""predictions"": [0, 1]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1:** ""42 Dogs Who Found Their Forever Homes In 2015"" - This headline is about heartwarming animal adoption stories, likely falling into a positive or feel-good category.  I've classified it as **0**.
+
+* **Headline 2:** ""Cafe Experience Is Shifting to the Home"" - This headline discusses a trend of home-based coffee experiences, suggesting a shift in lifestyle and consumer behavior. I've classified it as **1**. 
+
+
+**Important Note:**  Without more context or a defined classification system, this is a basic interpretation.  A more robust NLP classifier would require:
+
+* **Training data:**  A dataset of headlines labeled with the intended categories.
+* **Feature engineering:**  Extracting relevant features from the headlines (e.g., keywords, sentiment, topic).
+* **Model selection:** Choosing an appropriate machine learning algorithm for classification. 
+"
+Cafe Experience Is Shifting to the Home,0,1,"```json
+{
+ ""predictions"": [0, 1]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1:** ""42 Dogs Who Found Their Forever Homes In 2015"" - This headline is about heartwarming animal adoption stories, likely falling into a positive or feel-good category.  I've classified it as **0**.
+
+* **Headline 2:** ""Cafe Experience Is Shifting to the Home"" - This headline discusses a trend of home-based coffee experiences, suggesting a shift in lifestyle and consumer behavior. I've classified it as **1**. 
+
+
+**Important Note:**  Without more context or a defined classification system, this is a basic interpretation.  A more robust NLP classifier would require:
+
+* **Training data:**  A dataset of headlines labeled with the intended categories.
+* **Feature engineering:**  Extracting relevant features from the headlines (e.g., keywords, sentiment, topic).
+* **Model selection:** Choosing an appropriate machine learning algorithm for classification. 
+"
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,"```json
+{
+ ""predictions"": [1, 0]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1:**  ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" - This headline is likely about food and cooking, not a serious news event. **Prediction: 0 (Not News)**
+* **Headline 2:** ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" - This headline discusses a potential attack and conflicting expert opinions, making it a news-worthy event. **Prediction: 1 (News)** 
+
+
+Let me know if you have more headlines to classify!
+"
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,0,"```json
+{
+ ""predictions"": [1, 0]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1:**  ""22 Mouthwatering Foods You Won't Believe Contain Alcohol"" - This headline is likely about food and cooking, not a serious news event. **Prediction: 0 (Not News)**
+* **Headline 2:** ""'Denmark will be attacked' says one expert, 'Denmark safe' says another"" - This headline discusses a potential attack and conflicting expert opinions, making it a news-worthy event. **Prediction: 1 (News)** 
+
+
+Let me know if you have more headlines to classify!
+"
+Indiana tornado kills at least 19,0,1,"```json
+{
+ ""predictions"": [1, 0]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1 (""Indiana tornado kills at least 19""):** This headline reports a tragic event with a clear focus on factual news.  It's classified as **1 (news)**.
+* **Headline 2 (""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'""):** This headline is a question posed for entertainment purposes, likely related to a fictional story. It's classified as **0 (non-news)**. 
+
+
+Let me know if you have more headlines to classify!
+"
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,0,"```json
+{
+ ""predictions"": [1, 0]
+}
+``` 
+
+**Explanation:**
+
+* **Headline 1 (""Indiana tornado kills at least 19""):** This headline reports a tragic event with a clear focus on factual news.  It's classified as **1 (news)**.
+* **Headline 2 (""Would You Survive One Day In The Enchanted Forest From 'Once Upon A Time'""):** This headline is a question posed for entertainment purposes, likely related to a fictional story. It's classified as **0 (non-news)**. 
+
+
+Let me know if you have more headlines to classify!
+"

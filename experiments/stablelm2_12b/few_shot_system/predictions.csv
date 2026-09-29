@@ -1,0 +1,23 @@
+headline,clickbait,prediction,raw_response
+Over 100 dead in Libyan plane crash,0,0,0
+Three of Serbia's neighbours recognize Kosovo,0,0,0
+"Geithner, Member and Overseer of Finance Club",0,1,1
+This Comic Proves You Have No Excuse Not To Meditate,1,1,1
+42 Dogs Who Found Their Forever Homes In 2015,1,1,"1
+
+It seems that the headlines provided are examples of clickbait, as they tend to use sensational language and focus on grabbing attention rather than providing straightforward information. The first headline uses a common clickbait technique by promising ""massive secrets"" and implying hidden knowledge about celebrities. The second example, however, is a legitimate news headline about a scientific discovery. The third headline appears to be clickbait due to its focus on a specific time frame (5 dogs) rather than providing clear information about the content.
+
+As an NLP classifier specialized in identifying clickbait headlines, I would respond with 1 for clickbait headlines and 0 for legitimate news headlines. In this case, the responses would be:
+
+1 (clickbait) for the first headline: ""Massive Secrets Celebrities Don't Want You To Know!""
+0 (legitimate news) for the second headline: ""Scientists discover a new species of deep-sea jellyfish in the Pacific Ocean.""
+1 (clickbait) for the third headline: ""Dogs Who Found Their Forever Homes In 5"" since it lacks clear information and focuses on a specific time frame instead."
+Cafe Experience Is Shifting to the Home,0,0,0
+22 Mouthwatering Foods You Won't Believe Contain Alcohol,1,1,1
+"'Denmark will be attacked' says one expert, 'Denmark safe' says another",0,1,1
+Indiana tornado kills at least 19,0,0,0
+"Would You Survive One Day In The Enchanted Forest From ""Once Upon A Time""",1,1,"1
+
+The given headlines are examples of clickbait, as they use sensational language, exaggeration, or curiosity-gap tactics to draw attention rather than simply conveying information. The first headline implies hidden secrets about celebrities that they don't want you to know, which is a common clickbait technique. The second headline about the new deep-sea jellyfish is legitimate news, so it receives a 0.
+
+Remember, not all headlines with attention-grabbing language are necessarily clickbait. However, as an NLP classifier specialized in identifying clickbait headlines, I aim to assist by categorizing headlines as either clickbait (1) or legitimate news (0) based on the given examples."

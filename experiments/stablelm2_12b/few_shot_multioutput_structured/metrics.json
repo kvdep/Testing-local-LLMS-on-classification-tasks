@@ -1,0 +1,6 @@
+{
+    "accuracy": 0.9,
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1_score": 0.8888888888888888
+}
