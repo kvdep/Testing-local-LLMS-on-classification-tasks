@@ -159,8 +159,10 @@ $$F_1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \
   * Уровень сложности Флеша-Кинкейда (Flesch-Kincaid Grade Level):
     $$\text{FKGL} = 0.39 \left(\frac{\text{words}}{\text{sentences}}\right) + 11.8 \left(\frac{\text{syllables}}{\text{words}}\right) - 15.59$$
 * **Специфические эвристики**:
-  * Доля символов верхнего регистра: $\frac{N_{\text{upper\_chars}}}{N_{\text{chars}}}$.
-  * Доля слов, полностью набранных капсом: $\frac{N_{\text{upper\_words}}}{N_{\text{words}}}$.
+  * Доля символов верхнего регистра:
+    $$\text{UpperCharRatio} = \frac{N_{\text{upper}}}{N_{\text{chars}}}$$
+  * Доля слов, полностью набранных капсом:
+    $$\text{UpperWordRatio} = \frac{N_{\text{caps}}}{N_{\text{words}}}$$
   * Частота вхождения цифр, восклицательных и вопросительных знаков.
 * **Классификатор**: `LogisticRegression(C=1.0, max_iter=1000)`.
 * **Результаты**:
@@ -193,24 +195,24 @@ $$F_1 = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \
 
 ```mermaid
 flowchart TD
-    Data[Тестовый датасет test.csv] --> Shuffler[Детерминированное перемешивание seed=42]
-    Shuffler --> QueueManager[Диспетчер очередей по VRAM]
+    Data["Тестовый датасет<br/>(test.csv, 1600 строк)"] --> Shuffler["Перемешивание<br/>(random_state=42)"]
+    Shuffler --> QueueManager["Диспетчер очередей<br/>по объему VRAM"]
     
-    QueueManager -->|Вес < 13 GB| GPU0[Worker Thread GPU 0: cuda:0]
-    QueueManager -->|Вес < 13 GB| GPU1[Worker Thread GPU 1: cuda:1]
-    QueueManager -->|Вес >= 13 GB| Heavy[Sequential Worker: 2xT4 auto]
+    QueueManager -->|"Вес &lt; 13 GB"| GPU0["Поток 0: GPU 0<br/>(cuda:0)"]
+    QueueManager -->|"Вес &lt; 13 GB"| GPU1["Поток 1: GPU 1<br/>(cuda:1)"]
+    QueueManager -->|"Вес &ge; 13 GB"| Heavy["Поток Heavy<br/>(2xT4 auto)"]
     
-    GPU0 --> PromptEngine[Промпт-компилятор & Шаблонизатор]
+    GPU0 --> PromptEngine["Компилятор промптов<br/>(9 стратегий)"]
     GPU1 --> PromptEngine
     Heavy --> PromptEngine
     
-    PromptEngine --> Generation[Greedy Generation: do_sample=False]
-    Generation --> CleanEngine[Очистка служебных токенов и think-каналов]
-    CleanEngine --> Parser[4-уровневый парсер меток]
-    Parser --> MetricsEngine[Расчет метрик Accuracy, Precision, Recall, F1]
+    PromptEngine --> Generation["Жадная генерация<br/>(do_sample=False)"]
+    Generation --> CleanEngine["Очистка служебных токенов<br/>и каналов think"]
+    CleanEngine --> Parser["4-уровневый парсер<br/>бинарных меток"]
+    Parser --> MetricsEngine["Расчет метрик<br/>(Acc, Prec, Rec, F1)"]
     
-    MetricsEngine --> Cache[Кэширование predictions.csv и metrics.json]
-    Cache --> GitSync[Потокобезопасная синхронизация threading.Lock]
+    MetricsEngine --> Cache["Кэширование<br/>(predictions.csv, metrics.json)"]
+    Cache --> GitSync["Синхронизация с Git<br/>(threading.Lock)"]
 ```
 
 Инженерные решения конвейера:
